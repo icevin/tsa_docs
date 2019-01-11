@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132324052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132324052-1');
+</script>
+
 ## TSA 2019 Docs
 
 [2019-2020 TSA High School Competitive Events Program](https://icevin.github.io/tsa_docs/2019-2020_TSA_HS_Competitve_Events_Guide.pdf)  
